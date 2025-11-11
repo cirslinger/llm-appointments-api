@@ -46,7 +46,7 @@ const MOCK_APPOINTMENTS: Record<string, AppointmentResponse> = {
     appointments: [
       {
         appointmentId: 'APT-10002-001',
-        date: '2025-11-12',
+        date: '2025-11-17',
         time: '11:30 AM',
         provider: 'Dr. Michael Chen',
         specialty: 'Primary Care',
@@ -130,7 +130,7 @@ const MOCK_APPOINTMENTS: Record<string, AppointmentResponse> = {
     appointments: [
       {
         appointmentId: 'APT-10005-001',
-        date: '2025-11-14',
+        date: '2025-11-16',
         time: '9:00 AM',
         provider: 'Dr. Lisa Thompson',
         specialty: 'Primary Care',
